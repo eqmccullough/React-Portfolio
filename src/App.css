@@ -1,0 +1,33 @@
+* {
+    background-color: #54E6D7;
+    color: #BA7BA3;
+    font-family: Cormorant Garamond, sans-serif;
+  }
+  
+  .nav .nav-link {
+    font-weight: bolder;
+    background-color: #teal;
+    color: #ffdac3;
+  }
+  .eventkey:active {
+    color: #9d8189;
+    font-weight: bolder;
+    transition: all 0.3s ease;
+  }
+  
+  h1 {
+    display: flex;
+    justify-content: center;
+  }
+  p {
+    text-align: center;
+  }
+  
+  .Portfolio {
+    margin: 25px;
+  }
+  
+  a:hover {
+    box-shadow: 10px 10px 10px red;
+  }
+  
